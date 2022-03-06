@@ -48,9 +48,9 @@
                 "description": "Resource group name of the secondary region (must already exist)"
             }
         },
-        "baseUri": {
+         "baseUri": {
             "type": "string",
-            "defaultValue": "https://raw.githubusercontent.com/microsoft/MCW-Building-a-resilient-IaaS-architecture/"
+            "defaultValue": "https://raw.githubusercontent.com/krzyskm/MCW-Building-a-resilient-IaaS-architecture/"
         },
         "resourceFolder": {
             "type": "string",
